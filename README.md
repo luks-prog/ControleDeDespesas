@@ -1,10 +1,10 @@
 PROJETO => LINK => https://controle-de-despesas-one.vercel.app/
 
-Gerenciador de Finanças Pessoais
+# Gerenciador de Finanças Pessoais
 
 Este é um aplicativo web simples para gerenciar suas finanças pessoais. Com ele, você pode adicionar e remover transações e ver o saldo, a renda e as despesas totais. O aplicativo utiliza o armazenamento local para persistência dos dados e manipula o DOM para exibir as informações na interface do usuário.
 
-Funcionalidades:
+# Funcionalidades:
 
 Adicionar Transações: Você pode adicionar transações fornecendo um nome e um valor. As transações podem ser positivas (renda) ou negativas (despesas).
 
@@ -18,7 +18,7 @@ Exibir Despesas: Exibe as despesas totais com base nas transações de saída (n
 
 Armazenamento Local: As transações são armazenadas localmente no navegador, o que permite que você mantenha um histórico de suas finanças, mesmo após fechar o aplicativo.
 
-Como Usar:
+# Como Usar:
 
 Abra o aplicativo em seu navegador.
 
