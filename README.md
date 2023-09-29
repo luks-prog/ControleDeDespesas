@@ -1,4 +1,4 @@
-PROJETO => LINK => https://controle-de-despesas-one.vercel.app/
+PROJETO => https://controle-de-despesas-one.vercel.app/
 
 # Gerenciador de Finanças Pessoais
 
